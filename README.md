@@ -1,6 +1,6 @@
 # sparqeology.org website
 
-Repository of sparqeology.org website, [based on Jekyll Doc Theme](https://aksakalli.github.io/jekyll-doc-theme/).
+Repository of sparqeology.org website, based on [Jekyll Doc Theme](https://aksakalli.github.io/jekyll-doc-theme/).
 
 ## Running locally
 
