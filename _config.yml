@@ -5,6 +5,10 @@ description: >
   Tools for the analysis, summarisation, and interpretation of SPARQL query logs.
 lang: en-US
 
+# Configure the remote_theme plugin with the gh-pages branch
+# or the specific tag
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://sparqeology.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/sparqeology/sparqeology.github.io
